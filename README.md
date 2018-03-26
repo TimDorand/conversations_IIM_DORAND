@@ -13,8 +13,8 @@ This will launch `redis-server`, the websocket server and the websocket client.
 
 ``` bash
 
-# if you don't have already installed
-npm install redis-server
+readis-server &
+
 npm install
 npm start
 
